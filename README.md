@@ -6,7 +6,7 @@
 Most recent projects :
 - Content & Translation management tool
 - Budget forecast, projects, company books
-- [YooDrop](https://github.com/YooDrop/product) is a global water cycle program with an engine & full stack solution
+- [YooDrop](https://w.yoodrop.com) is a global water cycle program with an engine & full stack solution
 
 <!---
 Yoobe/Yoobe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
