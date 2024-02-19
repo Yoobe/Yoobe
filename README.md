@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Yoobe
+- 👋 Hi, I’m Baris
 - 👀 I’m interested in technology, web development, cloud, IoT, DIY Keyboards...
 - 🌱 I’m currently playing with golang, postGIS, vuejs, RestAPI
 - 📫 How to reach me -> ersezer.com
